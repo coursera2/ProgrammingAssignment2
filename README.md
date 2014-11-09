@@ -1,3 +1,4 @@
+coursera2 first commit to clone 11/8/14
 ### Introduction
 
 This second programming assignment will require you to write an R
