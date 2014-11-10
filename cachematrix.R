@@ -51,7 +51,7 @@ cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
 }
 
-# test(number_of_tests, random_seed, max_matrix_dim)
+# testCachedMatrix(number_of_tests, random_seed, max_matrix_dim)
 # function to exercise the above functions for testing num times
 # returns Boolean on whether test appears to have passed
 # expected output with no args: 10 getting cached data lines & return code TRUE
